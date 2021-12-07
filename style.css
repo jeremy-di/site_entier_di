@@ -1,0 +1,30 @@
+.color 							{color:#E95D13}.color 							{color:#E95D13}.color 							{color:#E95D13}@charset "utf-8";
+/* CSS Document */
+
+/* Paramètres généraux */
+body 							{margin:0; padding:0; background:url("images/new-font-01.png") no-repeat center fixed;margin-top:40px}
+#logo 							{text-align:center;}
+/* Header */
+#menu 							{margin:auto; text-align:center; margin-bottom:190px}
+#menu h1 						{margin-top:190px; color:#FFFFFF; opacity:0.5; font-size:50px; font-family: 'Lato', sans-serif; transition:color.5s ease-in}
+#menu h1:hover 					{color:#E95D13}
+#menu ul 						{margin:0; padding:0}
+#menu li 						{list-style:none; display:inline-block; margin-top:30px;}
+#menu li a 						{text-decoration:none; padding-left:30px; font-size:20px; color:#FFFFFF; font-family: 'Lato', sans-serif; transition:color.5s ease-in}
+#menu li a:hover 				{color:#E95D13; font-weight:bold}
+/* contenu */
+#contenu 						{text-align:center; background-color:#433F3F; height: 800px}
+#contenu h1 					{color:#FFFFFF; padding-top:40px; padding-bottom:40px; padding:40px; font-family: 'Lato', sans-serif}
+#contenu p 						{color:#FFFFFF; font-size:20px; font-family: 'Lato', sans-serif; padding-bottom:40px}
+.photo01 						{border:solid 2px #E95D13}
+/* Sidebar */
+#pdp 							{text-align:center; background-color:#191818}
+.reseaux 						{width:50px; height:50px; display:inline-block; margin:20px; transition:all .5s; -webkit-transition:all .5s}
+#youtube 						{background:url("images/YT-IC-footer.png") no-repeat;}
+#youtube:hover 					{background:url("images/YT-IC-01-footer.png") no-repeat;}
+#facebook 						{background:url("images/FB-IC-footer.png") no-repeat;}
+#facebook:hover 				{background:url("images/FB-IC-01-footer.png") no-repeat;}
+#twitter 						{background:url("images/TW-IC-footer.png") no-repeat;}
+#twitter:hover					{background:url("images/TW-IC-01-footer.png") no-repeat;}
+/* Pied de page */
+
